@@ -1,6 +1,0 @@
-﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
-  ConsoleApplication3.cpp
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(d:\documents\visual studio 2015\Projects\ConsoleApplication3\Release\ConsoleApplication3) does not match the Linker's OutputFile property value (d:\documents\visual studio 2015\Projects\ConsoleApplication3\Release\ConsoleApplication3.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-    正在创建库 d:\documents\visual studio 2015\Projects\ConsoleApplication3\Release\ConsoleApplication3.lib 和对象 d:\documents\visual studio 2015\Projects\ConsoleApplication3\Release\ConsoleApplication3.exp
-  ConsoleApplication3.vcxproj -> d:\documents\visual studio 2015\Projects\ConsoleApplication3\Release\ConsoleApplication3
-  ConsoleApplication3.vcxproj -> d:\documents\visual studio 2015\Projects\ConsoleApplication3\Release\ConsoleApplication3.pdb (Full PDB)
