@@ -1,0 +1,15 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  auth.cpp
+d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(223): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(265): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(265): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(265): note: 缺失的可变参数 1 为格式字符串“%d”所需
+d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(520): warning C4267: “参数”: 从“size_t”转换到“u_short”，可能丢失数据
+d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(542): warning C4267: “参数”: 从“size_t”转换到“u_short”，可能丢失数据
+d:\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\auth.cpp(618): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  ConsoleApplication3.vcxproj -> d:\documents\visual studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.dll
+  ConsoleApplication3.vcxproj -> d:\documents\visual studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
