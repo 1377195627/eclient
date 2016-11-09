@@ -92,6 +92,6 @@ int main(int argc, char *argv[])
 
 	/* 调用子函数完成802.1X认证 */
 
-	//Authentication(UserName, Password, DeviceName);
+	Authentication(UserName, Password, DeviceName);
 	return 0;
 }
