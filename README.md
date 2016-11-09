@@ -16,6 +16,9 @@ notify.dll是易语言与c之间通信的中转站，但是会造成定时自动
 运行：
 需要安装winpcap和vc2015运行库，编译需要的东西和运行需要的东西 下有
 
+eclient beta5终结版下载
+https://raw.githubusercontent.com/1377195627/eclient/master/eClientBeta6%E7%BB%88%E7%BB%93%E7%89%88.zip
+
 eclient beta5最终版下载
 https://raw.githubusercontent.com/1377195627/eclient/master/eClientBeta5%E6%9C%80%E7%BB%88%E7%89%88.zip
 
@@ -26,6 +29,10 @@ https://raw.githubusercontent.com/1377195627/eclient/master/eClientBeta5%E6%9C%8
 
 eclient理论上不再更新，但会开放源码
 https://github.com/1377195627/eclient
+
+beta6
+本版本为终结版
+修复开始连接client程序闪退问题
 
 beta5
 本版本为最终版
